@@ -1,0 +1,11 @@
+{
+  "name": "houseio",
+  "version": "1.0.0",
+  "description": "House IO Control App",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitchell D. Gram",
+  "license": "ISC"
+}
